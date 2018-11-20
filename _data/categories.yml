@@ -5,6 +5,7 @@ names:
   - Apps
   - CLI
   - CSS
+  - Databases
   - Devops
   - Elixir
   - Git
@@ -16,6 +17,7 @@ names:
   - Markup
   - macOS
   - Node.js
+  - PHP
   - Rails
   - React
   - Ruby

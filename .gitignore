@@ -1,6 +1,10 @@
 _output
 _site
+_old
+.sass-cache
 .jekyll-metadata
 /node_modules
 /vendor
 .idea/
+npm-debug.log
+.DS_Store
